@@ -2,17 +2,17 @@
 
 ### This Semester
 
-## Exercise 2 — Text Formatting
+## Text Formatting
 
 I am learning **GitHub** because I want to become *better at technology*, and I am practicing with `Markdown`.
 
-## Exercise 3 — Links
+## Links
 
 [My GitHub Profile](https://github.com/WairimuEvans)
 
 [GitHub](https://github.com/)
 
-## Exercise 4 — Lists
+## Lists
 
 Things I want to learn:
 
@@ -27,14 +27,14 @@ Steps to make a Git commit:
 3. Create the commit with `git commit`.
 4. Push the commit with `git push`.
 
-## Exercise 5 — Table
+## Table
 
 | Tool    | Purpose               | Link                           |
 | ------- | --------------------- | ------------------------------ |
 | GitHub  | Store and manage code | https://github.com/            |
 | VS Code | Write and edit code   | https://code.visualstudio.com/ |
 
-## Exercise 6 — Task List
+## Task List
 
 * [x] Create a GitHub account
 * [x] Create my profile repository
@@ -42,14 +42,14 @@ Steps to make a Git commit:
 * [ ] Learn more programming
 * [ ] Build my first independent project
 
-## Exercise 7 — Code Block
+## Code Block
 
 ```python
 name = "Evans"
 print("Hello, " + name)
 ```
 
-## Exercise 8 — Blockquote
+## Blockquote
 
 > Keep learning, keep experimenting, and understand why things work.
 
