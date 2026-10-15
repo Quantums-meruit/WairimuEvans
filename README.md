@@ -8,7 +8,7 @@ I'm interested in technology, programming, and building practical digital projec
 I'm looking to collaborate on beginner-friendly web development and open-source projects.
 
 ## Collaboration
-```https://github.com/Daisy10688/programming-languages-overview```
+https://github.com/Daisy10688/programming-languages-overview
 
 ## Skills I'm Building
 . Git and Github
