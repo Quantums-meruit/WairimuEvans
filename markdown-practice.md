@@ -1,6 +1,4 @@
-## My Learning Goals
-
-### This Semester
+## My Learning Goals this Semester
 
 ## Text Formatting
 
