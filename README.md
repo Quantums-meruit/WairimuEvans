@@ -11,6 +11,7 @@ I'm looking to collaborate on beginner-friendly web development and open-source 
 https://github.com/Daisy10688/programming-languages-overview
 
 ## Skills I'm Building
+
 . Git and Github
 . HTML
 . CSS
