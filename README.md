@@ -1,6 +1,6 @@
 # Hi, I'm Jeff Evans Wairimu 👋
 
-##Abot Me
+## About Me
 I'm currently learning software development through the IYF Weekend Academy.
 
 I'm interested in technology, programming, and building practical digital projects while improving my skills.
